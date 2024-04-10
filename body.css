@@ -1,0 +1,53 @@
+.main-body-div {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  height: 600px;
+}
+.main-2 {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  padding-left: 60px;
+  background-color: black;
+}
+.main-2-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-body-game-name {
+  font-size: 15px;
+  font-family: "rockstarbold", Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(232, 232, 232);
+  line-height: 24px;
+}
+.trailer-name {
+  color: white;
+  font-size: 40px;
+  font-family: "rockstar3", Helvetica, sans-serif;
+  color: rgb(232, 232, 232);
+  line-height: 44px;
+}
+.watch-button {
+  font-family: "rockstar3";
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  border: 1px solid;
+  margin-top: 30px;
+  padding: 16px 60px 16px 60px;
+}
+.main-2-2 {
+  display: flex;
+  align-items: end;
+  padding-bottom: 80px;
+}
+.scroll-button {
+  border-radius: 2px;
+  border: 1px solid;
+  height: 5px;
+  width: 80px;
+  margin-top: 40px;
+  margin-right: 10px;
+}

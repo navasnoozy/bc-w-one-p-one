@@ -1,0 +1,78 @@
+.footer {
+  margin-top: 120px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  color: white;
+}
+.footer-ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding-left: 0px 0px 0px 100px;
+  font-family: "rockstar";
+  font-size: 20px;
+  color: rgb(214, 211, 211);
+}
+#open-icon-careers {
+  font-size: 16px;
+  margin-left: 10px;
+}
+.language {
+  display: flex;
+  align-items: center;
+  justify-self: end;
+  padding-right: 80px;
+}
+#lang-icon {
+  margin-right: 10px;
+}
+#language {
+  background-color: black;
+  color: white;
+  border-width: 0;
+}
+.language:active {
+  border: 1px solid white;
+}
+.footer-2 {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  color: white;
+  font-family: "rockstar";
+}
+.footer-ul2 {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  font-family: "rockstar";
+  font-size: 15px;
+  color: rgb(150, 149, 149);
+  margin: 70px 120px 0px 0px;
+}
+.footer-icons {
+  display: flex;
+  justify-self: end;
+}
+.footer-img {
+  width: 280px;
+  height: 30px;
+  margin: 90px 80px 0px 0px;
+}
+.bottom-footer  {
+  display: flex;
+  font-size: 15px;
+  color: white;
+  font-family: 'rockstar3';
+  align-items: center;
+  justify-content: space-between;
+  margin: 110px 60px 70px 60px;
+}
+.bottom-ul{
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-family: "rockstar3";
+    
+  
+}
