@@ -1,14 +1,14 @@
 @font-face {
   font-family: "rockstar";
-  src: url(/font/HelveticaNowText-Light.ttf);
+  src: url(font/HelveticaNowText-Light.ttf);
 }
 @font-face {
   font-family: "rockstarbold";
-  src: url(/font/HelveticaNowText-Bold.ttf);
+  src: url(font/HelveticaNowText-Bold.ttf);
 }
 @font-face {
   font-family: "rockstar3";
-  src: url(/font/HelveticaNowText-Medium.ttf);
+  src: url(font/HelveticaNowText-Medium.ttf);
 }
 body {
   margin: 0;
